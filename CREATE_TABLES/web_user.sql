@@ -6,9 +6,4 @@ Email_ID varchar(30),
 Age int,
 Phone_Number varchar(10) NOT NULL,
 Primary Key(Web_User_ID));
-Create Table Theatre(
-Theatre_ID varchar(5),
-Name_of_Theatre varchar(30) NOT NULL,
-No_of_Screens int,
-Area varchar(30),
-Primary Key(Theatre_ID));
+
